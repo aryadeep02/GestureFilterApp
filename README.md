@@ -97,7 +97,8 @@ Check the issues page
 
 ---
 
-###🔮 Future Optimizations
+🔮 Future Optimizations
+```
 
 ✨ Customizable Filters – Add your own filter functions dynamically
 
@@ -110,6 +111,7 @@ Check the issues page
 🌐 Web Version – Deploy with WebAssembly + MediaPipe.js for browser use
 
 🤖 Gesture Expansion – Add more gestures (peace ✌️, fist 👊, open palm 🖐️) for extra controls
+```
 
 ### 👤 Author
 
