@@ -1,0 +1,7 @@
+#!/Users/aryadeepvarshney22/Desktop/Gesture-Filter-App-main/venv/bin/python
+import sys
+from fontTools.merge import main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(main())
