@@ -97,12 +97,23 @@ Check the issues page
 
 ---
 
-### 👤 Contact
+###🔮 Future Optimizations
 
-Created by Om Kale
+✨ Customizable Filters – Add your own filter functions dynamically
 
-Email : ok176471@gmail.com
+📲 Mobile Version – Gesture filters for Android/iOS using Kivy or Flutter integration
 
-Special Credit: project idea inspired by @avani.artxtech
+🧠 AI-Powered Filters – Use GANs or style transfer models for artistic effects
 
-💌 Reach out for questions or collaborations!
+🎛️ Advanced UI – Drag & drop filter layers, real-time intensity sliders
+
+🌐 Web Version – Deploy with WebAssembly + MediaPipe.js for browser use
+
+🤖 Gesture Expansion – Add more gestures (peace ✌️, fist 👊, open palm 🖐️) for extra controls
+
+### 👤 Author
+
+Aryadeep Varshney
+📧 Email: aryadeepv21@gmail.com
+
+Special Credit: Project inspired by @avani.artxtech ✨
